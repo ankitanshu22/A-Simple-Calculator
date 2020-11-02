@@ -1,4 +1,4 @@
-# A-Simple-Calculator
+# Calculator App
 
 A Simple Calculator made using JavaScript
 
